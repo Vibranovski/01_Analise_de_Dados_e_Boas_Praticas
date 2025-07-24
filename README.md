@@ -67,12 +67,12 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 ## 📄 Bibliotecas utilizadas
 
 **Análise de dados**
-1. [Pandas](https://pandas.pydata.org/): É uma biblioteca de software criada para a linguagem Python para manipulação e análise de dados. Em particular, oferece estruturas e operações para manipular tabelas numéricas e séries temporais.
+1. [Pandas](https://pandas.pydata.org/): Biblioteca de software criada para a linguagem Python para manipulação e análise de dados. Em particular, oferece estruturas e operações para manipular tabelas numéricas e séries temporais.
 
-2. [NumPy](https://numpy.org/): É uma biblioteca para a linguagem de programação Python, que suporta o processamento de grandes, multi-dimensionais arranjos e matrizes, juntamente com uma grande coleção de funções matemáticas de alto nível para operar sobre estas matrizes.
+2. [NumPy](https://numpy.org/): Biblioteca para a linguagem de programação Python, que suporta o processamento de grandes, multi-dimensionais arranjos e matrizes, juntamente com uma grande coleção de funções matemáticas de alto nível para operar sobre estas matrizes.
 
 **Visualização de Dados**
-1. [Matplotlib](https://matplotlib.org/): É uma biblioteca abrangente para criar estático, animado, e visualizações interativas em Python. Matplotlib faz coisas fáceis coisas fáceis e difíceis possíveis. 
+1. [Matplotlib](https://matplotlib.org/): Biblioteca abrangente para criar estático, animado, e visualizações interativas em Python. Matplotlib faz coisas fáceis coisas fáceis e difíceis possíveis. 
 2. [Seaborn](https://seaborn.pydata.org/): Biblioteca de visualização de dados Python baseada em matplotlib. Ele fornece uma interface de alto nível para desenho gráficos estatísticos atrativos e informativos. 
 3. [Squarify](https://pypi.org/project/squarify/): Biblioteca python para a visualização de treemap.
 
