@@ -51,9 +51,9 @@ Este repositório refere-se ao Projeto MVP (Minimum Viable Product) desenvolvido
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
-- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (arquivo atual).
+- <b>README.md</b>: Arquivo que serve como guia e explicação geral sobre o projeto (arquivo atual).
 - <b>01-MVP1Daniel_Analise_de_Dados_e_Boas_Praticas.ipnyb</b>: Notebook com a análise exploratória e pipeline de processamento dos dados.
-- <b>datasets</b>: arquivos utilizados no projeto.
+- <b>datasets</b>: Arquivos utilizados no projeto.
   - [Global AI Job Market & Salary Trends 2025](https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025).
 
 
@@ -67,17 +67,17 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 ## 📄 Bibliotecas utilizadas
 
 **Análise de dados**
-1. [Pandas](https://pandas.pydata.org/):é uma biblioteca de software criada para a linguagem Python para manipulação e análise de dados. Em particular, oferece estruturas e operações para manipular tabelas numéricas e séries temporais.
+1. [Pandas](https://pandas.pydata.org/): É uma biblioteca de software criada para a linguagem Python para manipulação e análise de dados. Em particular, oferece estruturas e operações para manipular tabelas numéricas e séries temporais.
 
-2. [NumPy](https://numpy.org/): é uma biblioteca para a linguagem de programação Python, que suporta o processamento de grandes, multi-dimensionais arranjos e matrizes, juntamente com uma grande coleção de funções matemáticas de alto nível para operar sobre estas matrizes.
+2. [NumPy](https://numpy.org/): É uma biblioteca para a linguagem de programação Python, que suporta o processamento de grandes, multi-dimensionais arranjos e matrizes, juntamente com uma grande coleção de funções matemáticas de alto nível para operar sobre estas matrizes.
 
 **Visualização de Dados**
-1. [Matplotlib](https://matplotlib.org/): é uma biblioteca abrangente para criar estático, animado, e visualizações interativas em Python. Matplotlib faz coisas fáceis coisas fáceis e difíceis possíveis. 
-2. [Seaborn](https://seaborn.pydata.org/): biblioteca de visualização de dados Python baseada em matplotlib. Ele fornece uma interface de alto nível para desenho gráficos estatísticos atrativos e informativos. 
-3. [Squarify](https://pypi.org/project/squarify/): biblioteca python para a visualização de treemap.
+1. [Matplotlib](https://matplotlib.org/): É uma biblioteca abrangente para criar estático, animado, e visualizações interativas em Python. Matplotlib faz coisas fáceis coisas fáceis e difíceis possíveis. 
+2. [Seaborn](https://seaborn.pydata.org/): Biblioteca de visualização de dados Python baseada em matplotlib. Ele fornece uma interface de alto nível para desenho gráficos estatísticos atrativos e informativos. 
+3. [Squarify](https://pypi.org/project/squarify/): Biblioteca python para a visualização de treemap.
 
 **Pré-processamento de Dados**
-1. [Scikit-learn](https://scikit-learn.org/stable/): ferramenta eficientes para análise preditiva de dados, construído em NumPy, SciPy e matplotlib.
+1. [Scikit-learn](https://scikit-learn.org/stable/): Ferramenta eficientes para análise preditiva de dados, construído em NumPy, SciPy e matplotlib.
 
 **Utilitários** 
 1. [Tabulate](https://pypi.org/project/tabulate/): Dados tabulares impressos em Python em formatação mais agradável, para múltiplos formatos de saída adequados para edição ou transformação adicional.
