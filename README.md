@@ -87,11 +87,13 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 1. Clone este repositório em sua máquina local:
 
-    ```git clone https://github.com/Vibranovski/MVP1_PUC-RIO.git```
+    ```
+    git clone https://github.com/Vibranovski/MVP1_PUC-RIO.git
+    ```
 
-2. Abra o arquivo no Google Colab ou em um ambiente local com suporte a Jupyter Notebooks.
+3. Abra o arquivo no Google Colab ou em um ambiente local com suporte a Jupyter Notebooks.
 
-3. Execute as células do notebook para reproduzir o trabalho de análise e pré-processamento.
+4. Execute as células do notebook para reproduzir o trabalho de análise e pré-processamento.
 
 
 ## 📋 Licença/License
