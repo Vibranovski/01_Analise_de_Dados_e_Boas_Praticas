@@ -74,7 +74,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 **Visualização de Dados**
 1. [Matplotlib](https://matplotlib.org/): Biblioteca abrangente para criar estático, animado, e visualizações interativas em Python. Matplotlib faz coisas fáceis coisas fáceis e difíceis possíveis. 
 2. [Seaborn](https://seaborn.pydata.org/): Biblioteca de visualização de dados Python baseada em matplotlib. Ele fornece uma interface de alto nível para desenho gráficos estatísticos atrativos e informativos. 
-3. [Squarify](https://pypi.org/project/squarify/): Biblioteca python para a visualização de treemap.
+3. [Squarify](https://pypi.org/project/squarify/): Biblioteca Python para a visualização de treemap.
 
 **Pré-processamento de Dados**
 1. [Scikit-learn](https://scikit-learn.org/stable/): Ferramenta eficientes para análise preditiva de dados, construído em NumPy, SciPy e matplotlib.
