@@ -44,7 +44,7 @@ Este repositório refere-se ao Projeto MVP (Minimum Viable Product) desenvolvido
 
 ```
 ├── 📁 dataset
-├── 📝 01-MVP1Daniel_Analise_de_Dados_e_Boas_Praticas.ipnyb
+├── 📝 01_MVP_Analise_de_Dados_e_Boas_Praticas_Daniel.ipynb
 ├── 📝 README.md
 
 ```
