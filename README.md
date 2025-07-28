@@ -1,4 +1,4 @@
-# PUC - Pontifícia Universidade Católica do Rio de Janeiro
+# PUC - Pontifícia Universidade Católica do Rio de Janeiro.
 
 <p align="center">
   <img src="https://images.squarespace-cdn.com/content/v1/59a8480fccc5c52fff14d38a/1529026153457-7W1EX1C6VUVUNIQN0CE1/image-asset.png" alt="PUC logo" border="0" width="100px">
